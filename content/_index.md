@@ -11,7 +11,7 @@ show_action_link: true
 show_social_links: true
 subtitle: A personal website
 text_align_left: false
-title:  Toshi Hamamura
+title:  Toshitaka Hamamura
 type: home
 ---
 
